@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @jondotprice
+- 👀 I’m interested in security, photography and raising little humans.
+- 🌱 I’m currently learning photography and videography, as well as some rust. 
+- 💞️ I’m looking to collaborate on ANYTHING security related. <3
+- 📫 How to reach me:
+  - Open an issue on this repo as a start.
